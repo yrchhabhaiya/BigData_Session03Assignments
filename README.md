@@ -25,7 +25,8 @@ file5: FileRead.java
 Task 6: 
 Write a Java program to copy a file from local filesystem to HDFS.
 file6: FileCopy.java
+-----------------------------------------------------------------------------------------------------------------------------------------
+Assignment 3.3:
 
-Task7:
 List the Components of Hadoop 2.x and explain each component in detail.  
-file7: Components of Hadoop 2.x.docx
+file: Assignment 3.3.PDF
